@@ -1,0 +1,74 @@
+{
+    "menu": [
+        {
+            "appetizers": [
+                {
+                    "name": "Mozarella Sticks",
+                    "ingredients": ["mozarella cheese", "breadcrumbs", "marinara sauce"],
+                    "description": "Breaded strings of mozarella cheese, deep fried and served with marinara for dipping."
+                },
+                {
+                    "name": "House Salad",
+                    "ingredients": ["lettuce", "tomato", "onion", "carrot", "cucumber", "croutons", "dressing"],
+                    "description": "House salad with your choice of dressing!"
+                }
+            ]
+        },
+        {
+            "coldSandwiches": [
+                {
+                    "name": "Turkey Club",
+                    "ingredients": ["toasted white bun", "sliced turkey", "bacon", "tomato", "lettuce", "pickle", "mayo"],
+                    "description": "Turkey sandwich with all the fixens piled onto a toasted white bun."
+                },
+                {
+                    "name": "Ham Club",
+                    "ingredients": ["toasted white bun", "sliced ham", "bacon", "tomato", "lettuce", "pickle", "mayo"],
+                    "description": "Ham sandwich with all the fixens piled onto a toasted white bun."
+                }
+            ]
+        },
+        {
+            "hotSandwiches": [
+                {
+                    "name": "Hot Ham & Cheese",
+                    "ingredients": ["toasted white bun", "sliced ham", "swiss cheese"],
+                    "description": "Sliced ham and melted cheese, toasted between white buns."
+                },
+                {
+                    "name": "Hot Ham & Turkey with Cheese",
+                    "ingredients": ["toasted white bun", "sliced ham", "sliced turkey", "swiss cheese"],
+                    "description": "Sliced ham and turkey with melted cheese, toasted between white buns."
+                }
+            ]
+        },
+        {
+            "desserts": [
+                {
+                    "name": "Chocolate Lava Cake",
+                    "ingredients": ["chocolate cake", "chocolate sauce", "vanilla ice cream"],
+                    "drecription": "Chocolate cake with a chocolate sauce (lava) center topped with vanilla ice cream."
+                },
+                {
+                    "name": "Key Lime Pie",
+                    "ingredients": ["cream cheese", "grahm crackers", "whipped topping"],
+                    "drecription": "Key lime flavored cheese cake with a grahm cracker crust with whipped cream topping."
+                }
+            ]
+        },
+        {
+            "drinks": [
+                {
+                    "name": "Strawberry Smoothie",
+                    "ingredients": ["milk", "strawberries", "whipped cream"],
+                    "description": "Strawberry smoothie with real chunks of strawberries."
+                },
+                {
+                    "name": "Blueberry Smoothie",
+                    "ingredients": ["milk", "blueberries", "whipped cream"],
+                    "description": "Blueberry smoothie with real chunks of strawberries."
+                }
+            ]
+        }
+    ]
+}
